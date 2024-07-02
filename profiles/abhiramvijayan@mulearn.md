@@ -7,12 +7,10 @@ continuous learning and growth.
 Portfolio Highlights
 
 My Projects
-
 | Name                | Description                                                            | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Project Chatbot In Ecommerce  |   E-commerce chatbots are AI-powered programs that engage with website visitors instantly. They offer customer support,respond to inquiries, suggest items, collect feedback, andmonitor interaction. Developed using Python Flask FrameworkHTML, and CSS, these bots enhance user experience seamlessly
-                                                                                               | [Hosted Link 1](https://example.com)    | [Repo Link 1]          |
-| Online Car Rental Portal  | The purpose of this project is to make rented cars or vehicles available for the people who want to travel alone or with their family and friends from one place to another.Languages : Html, Css, Bootstrap and Django Python Framework.       | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Skin cancer detector  |   Developed a Health Discernment System to detect skin cancer from input images, addressing the increasing number of patients.       | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| Anomaly detection in video surveillance  | Developed a robust machine learning system for anomaly detection in video surveillance, using CNNs to extract spatiotemporal features and a one-class classification algorithm to identify anomalies.      | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 Leadership and Influence:
 
