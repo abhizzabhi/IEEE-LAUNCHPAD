@@ -12,14 +12,14 @@ My Projects
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | Project Chatbot In Ecommerce  | E-commerce chatbots are AI-powered programs that engage
-with website visitors instantly. They offer customer support,
-respond to inquiries, suggest items, collect feedback, and
-monitor interaction. Developed using Python Flask Framework
-HTML, and CSS, these bots enhance user experience seamlessly                                             | [Hosted Link 1]   | [Repo Link              
-| Online Car Rental Portal | The purpose of this project is to make rented cars or vehicles
-available for the people who want to travel alone or with their family
-and friends from one place to another.
-Languages : Html, Css, Bootstrap and Django Python Framework.                                              | [Hosted Link 2]   | [Repo Link 2]             |
+                                  with website visitors instantly. They offer customer support,
+                                  respond to inquiries, suggest items, collect feedback, and
+                                  monitor interaction. Developed using Python Flask Framework
+                                  HTML, and CSS, these bots enhance user experience seamlessly          [Repo Link 1]                | [Hosted Link 1]   |              
+| Online Car Rental Portal |     The purpose of this project is to make rented cars or vehicles
+                                 available for the people who want to travel alone or with their family
+                                 and friends from one place to another.
+                                 Languages : Html, Css, Bootstrap and Django Python Framework.          [Repo Link 2]                | [Hosted Link 2]   |              |
 
 Leadership and Influence:
 
