@@ -9,8 +9,8 @@ Portfolio Highlights
 My Projects
 | Name                | Description                                                            | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Project Chatbot In Ecommerce  |   E-commerce chatbots are AI-powered programs that engage with website visitors instantly. They offer customer support,respond to inquiries, suggest items, collect feedback, andmonitor interaction.       | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| Anomaly detection in video surveillance  | Developed a robust machine learning system for anomaly detection in video surveillance, using CNNs to extract spatiotemporal features and a one-class classification algorithm to identify anomalies.      | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+|  Chatbot In Ecommerce  |   E-commerce chatbots are AI-powered programs that engage with website visitors instantly. They offer customer support,respond to inquiries, suggest items, collect feedback, andmonitor interaction.       | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| Online Car Rental Portal  | The purpose of this project is to make rented cars or vehicles available for the people who want to travel alone or with their family and friends from one place to another.      | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 Leadership and Influence:
 
